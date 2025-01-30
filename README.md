@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Привет! Я [Макс Шефов]
+🚀 Фронтенд-разработчик | [React]
 
-<!--
-**Pe4all/Pe4all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Люблю создавать красивые, удобные и производительные веб-приложения. Следую современным трендам в UI/UX и постоянно прокачиваю свои навыки.
 
-Here are some ideas to get you started:
+🔧 Мой стек:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Языки: JavaScript (ES6+), TypeScript
+Фреймворки: React, Next.js
+Стили: CSS modules, Styled Components
+Сборщики: Vite, Webpack
+State Management: Redux, RTK
+Тестирование: Jest, React Testing Library
+Другие технологии: Docker, Storybook
+📫 Связь со мной:
+
+🌍 Портфолио: [https://shefov-max-portfolio.vercel.app/]
+✉️ Email: [Shefov.max@yandex.ru]
+💬 Telegram: [@Pechal11]
